@@ -11,5 +11,5 @@ After:
 
 ![Screenshot 2025-06-11 050634](https://github.com/user-attachments/assets/a3e00616-3822-4737-ba31-a4a5d583338f)
 
-Might not seem like much but 2.3 KB for only 60 scale tracks (the animation is 2.5 seconds long) is pretty significant on larger scaled projects, not to mention the unnecessary proccessing on them while playing the animations.
+Might not seem like much but 2.3 KB for only 59 scale tracks (the animation is 2.5 seconds long) is pretty significant on larger scaled projects, not to mention the unnecessary proccessing on them while playing the animations.
 Please leave a star on this repo if you had found this helpful, thank you and enjoy.
